@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photo_api/static/css/main.dc3d1703.css",
+    "main.js": "/photo_api/static/js/main.d7a3c6eb.js",
+    "index.html": "/photo_api/index.html",
+    "main.dc3d1703.css.map": "/photo_api/static/css/main.dc3d1703.css.map",
+    "main.d7a3c6eb.js.map": "/photo_api/static/js/main.d7a3c6eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3d1703.css",
+    "static/js/main.d7a3c6eb.js"
+  ]
+}
